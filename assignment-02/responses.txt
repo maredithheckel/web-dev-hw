@@ -1,1 +1,8 @@
 My Responses:
+6. There are 1's and 0's (binary codes) that mean on and off, these are also called the atoms of information. These then travel from one location to the next until they get to their final destination.
+
+7. An IP address is the computer's location and how to send information there. The DNS, domain name system associates the domain name with the correct IP address.
+
+8. A cookie is what websites use to remember who you are.
+
+9. The three parts of a URL are the protocol (http://), domain (champagneandlinen) and path (/blog).
