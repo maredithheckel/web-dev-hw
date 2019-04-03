@@ -1,0 +1,30 @@
+
+body {
+text-align: Center;
+background-image: url("./images/retro.jpg");
+  background-position: center;
+}
+
+#container {
+    width:100%;
+    text-align:center;
+}
+
+#left {background-color: #B45C76;
+      float:left;
+    width:250px;
+    color: white
+}
+
+#center {background-color: #4E8FD1;
+  display: inline-block;
+  width:250px
+  color: white
+}
+
+#right {background-color:#8D3D85;
+  float:right;
+  width:250px;
+  color: white
+
+}
