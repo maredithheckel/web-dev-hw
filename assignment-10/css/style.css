@@ -1,0 +1,24 @@
+#largebox{
+  width: 800px;
+  height:350px;
+  background-color: #00F;
+}
+
+#box1 {
+  height: 300px;
+  width: 100px;
+  float: left;
+
+}
+
+#box2 {
+  height: 300px;
+  width: 100px;
+  float: left;
+}
+
+#box3{
+  height: 300px;
+  width: 100px;
+  float: right;
+}
