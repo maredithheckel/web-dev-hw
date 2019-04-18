@@ -1,8 +1,7 @@
-What is the difference between padding, margin, and borders?
-Borders surround text/objects, margin is the space between a box/element and padding is the space between the content of the element and the element itself.
+1. I decided to look through the sample writings and I chose Harry Potter. Initially I wanted to do a really cool artsy font for the title, but couldn't find one I liked. Instead I chose 'Cinzel', serif; for my title. I though this was crisp, and stood out enough to be something J.K. Rowling would use for her novels. Then I chose a basic, nunito sans for my body because it didn't detract from the title, and had a nice flow.
 
-Embed the image of the artwork you used as inspiration. image icon
-<img src="./images/art.png" alt="art" >
+2. What is the difference between a system font, web font, and web-safe font? What is the importance of having fallback fonts or a font stack?
+A system font is one that is already downloaded onto your computer, a web font is one that is hosted on a server. A web-safe font is one that developers can count on being accessible by the system including: arial, georgia, times new roman, etc. Fallback fonts are the fonts that are used when the ideal font isn't accessible through the source.
 
-Free Response: Summarize your work cycle for this assignment.
-It took me a while to find a piece of artwork that I enjoyed, but once I found it I was really happy! It is simple, which I like. This assignment was a struggle for me but I think I finally completed it after some trial and error.
+3. Free Response: Summarize your work cycle for this assignment.
+I began by choosing a type of writing that interested me, which was Harry Potter. I then went into choosing my fonts and creative elements. I did become stumped when trying to use 2 fonts in my style sheet, but went in for help and figured it out!
