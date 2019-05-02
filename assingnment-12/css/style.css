@@ -1,0 +1,89 @@
+/*fonts*/
+h1 {
+  font-family: 'Nunito Sans Bold', sans-serif;
+}
+h2 {
+  font-family: 'Nunito Sans SemiBold', sans-serif;
+}
+p {
+  font-family: 'Playfair Display Regular', serif;
+}
+
+/* page style */
+body {
+    font-size: 12pt;
+    margin: 10px;
+    padding: 2px;
+    background-color:  #ffffff;
+}
+main {
+  text-align: justify;
+  margin: 3em 0;
+}
+/* images */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*nav bar*/
+header {
+    position: fixed;
+    top: 0px;
+    background-color: #c4ddf5;
+    font-family: 'Nunito Sans ExtraBold', sans-serif;
+    text-transform: lowercase;
+    margin-top: 0;
+    height: 8em;
+    width: 100%;
+    text-align: center;
+}
+
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: #c4ddf5;
+    padding: 0.5em 1em;
+}.menu-item a {
+    color: #3d70b2;
+    text-decoration: none;
+}
+
+.menu-item:hover, .menu-item:hover a {
+    color: #435152;
+    background-color: #c4ddf5;
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 0.5em 0 0 -1em;
+    color: #3d70b2;
+    background-color: #c4ddf5;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #435152;
+    background-color: #c4ddf5;
+}
