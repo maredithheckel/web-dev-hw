@@ -1,5 +1,9 @@
-1. 
+1. The web is the information we can access through the internet, while the internet a network in which you can access things.
 
-2.
+2. The Internet through a server and webpage through that hard drive, allowing communication to happen.
 
-3.
+3. A directory is what holds different files.
+
+4. A VCS is beneficial to use because it allows the user to track the changes that are made.
+
+5. I never really knew how the internet worked in terms of sending signals + all that. I thought it was really interesting being able to conceptualize what is happening when I use the internet.
